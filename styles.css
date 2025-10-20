@@ -3,6 +3,11 @@
   box-sizing: border-box;
 }
 
+/* Ajuste menor para Issue #2 */
+header h1 {
+  letter-spacing: 0.5px;
+}
+
 body {
   font-family: "Segoe UI", Roboto, Arial, sans-serif;
   background-color: #f5f5f5;
